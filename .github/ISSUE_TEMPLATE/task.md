@@ -1,4 +1,4 @@
---
+---
 name: Task template
 about: Describe a task to research or verify the possibility of project requirement.
 title: ''
