@@ -7,14 +7,13 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**問題はなんですか?**
+例. 私は このアプリで [...] を行うときにいつも苛々する．
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**要望はなんですか?**
+例. [...] を今よりも簡単に行えるようにしてほしい
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**具体的な改善案なんですか?**
+例．[...] を1クリックで行う
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**備考**
