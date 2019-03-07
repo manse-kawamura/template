@@ -1,4 +1,4 @@
----
+--
 name: Task template
 about: Describe a task to research or verify the possibility of project requirement.
 title: ''
@@ -18,4 +18,4 @@ assignees: ''
 - [ ] 例. ドメインを登録する方法を調査する
 - [ ] 例. ドメインを自動登録するトイスクリプトを書く
 ## 調査，検証に利用する資料
-+ 
++ 例. [お名前.com](https://www.onamae.com/service/selldomain/)
