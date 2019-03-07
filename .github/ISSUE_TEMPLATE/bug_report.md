@@ -7,32 +7,19 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**バグ発生時の動作**
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**バグの再現手順**
+1. 手順1
+1. 手順2 
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**バグがない時の動作**
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**バグ発生時のスクリーンショット(あれば)**
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**実行環境**
+ - OS: [e.g. iOS 12.1.4]
+ - Browser [e.g. chrome 33.01750.146]
+ - Runtime [e.g. Python 2.7.12 Java 4.8]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**備考**
